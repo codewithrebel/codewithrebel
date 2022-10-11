@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a multifaceted creative and self-taught web developer
+- 👋 Hi, I’m a multifaceted creative and self-taught web developer - codewithrebel.com
 - ✨ I have great interest in full-stack web development and currently learning anything i can put my hands on to improve myself 
 - 💻 I’m looking to work for businesses and brand as a web developer and offer IT solutions
 - 📩 You can reach me via email info@codewithrebel.com
